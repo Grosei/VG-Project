@@ -1,0 +1,8 @@
+git add . -- adauga toate modificarile.
+git commin -- salveaza modificarile.
+git status -- verificare.
+git push -- trimite modificrile pe github, doar acele facute cu git add.
+git add . -- adauga toate modificarile.
+git commin -- salveaza modificarile.
+git status -- verificare.
+git push -- trimite modificrile pe github, doar acele facute cu git add.
